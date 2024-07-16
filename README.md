@@ -1,2 +1,3 @@
 # mygit
-this is my 
+this is my first git repository
+author -nehan
